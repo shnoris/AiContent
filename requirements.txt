@@ -1,0 +1,10 @@
+streamlit
+torch
+diffusers
+transformers
+accelerate
+safetensors
+ffmpeg-python
+Pillow
+numpy
+tqdm
